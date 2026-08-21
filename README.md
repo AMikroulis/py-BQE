@@ -163,6 +163,7 @@ Front. Comput. Neurosci. 10:116. doi:10.3389/fncom.2016.00116
 py-BQE (2026)
 Bayesian Quantal Estimation - JAX/NumPyro port.
 https://github.com/AMikroulis/py-BQE
+DOI: 10.5281/zenodo.22048095
 ```
 
 ## License
